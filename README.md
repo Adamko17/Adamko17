@@ -1,27 +1,64 @@
-I'm a software engineering student ,where I’m builidng my skills in computer science and problem-solving.<br>
-I love turning ideas into code, exploring new technologies, and tackling challenging projects that push my boundaries.<br>
+<h1 align="center">Adam Kokhnover </h1>
 
-🌟 Skills & Interests<br>
-Programming Languages:<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge" />
+</p>
 
-Java (Object-Oriented Programming, Spring Boot)<br>
-C (System Programming, Data Structures)<br>
-Python (Scripting, Algorithms)<br>
-SQL (Database Management, MySQL)<br>
-Assembly (TASM, Computer Organization)<br>
+---
 
-Core Concepts:
+### 👨‍💻 About Me
 
-Algorithm Efficiency & Data Structures<br>
-Recursion, Sorting & Searching Algorithms<br>
-Polymorphism, Inheritance, Interfaces<br>
-Probability & Statistics<br>
+Hi! I'm a **software engineering student** , currently working on cool projects and building my skills.
 
+Programming Languages:
 
+-  Java (Object-Oriented Programming, Spring Boot)
+-  C (System Programming, Data Structures) 
+-  SQL (Database Management, MySQL) 
+-  Python (Scripting, Algorithms)
 
+---
 
+### 🛠️ Technologies & Tools
 
-<!---
-Adamko17/Adamko17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Icon" />
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL Icon" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" />
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ Icon" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5 Icon" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" />
+</p>
+
+---
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌟 Goals for 2025
+
+- 🚀 Master Spring Boot and web development  
+- 🏆 Contribute to open-source projects  
+- 📚 Continue building innovative and practical projects  
+
+---
+
+<p align="center">
+  <b>My socials: </b>
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/adam-kokhnover-83ba712a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+</p>
