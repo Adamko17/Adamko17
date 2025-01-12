@@ -47,11 +47,6 @@ Programming Languages:
 
 ---
 
-### 🌟 Goals for 2025
-
-- 🚀 Master Spring Boot and web development  
-- 🏆 Contribute to open-source projects  
-- 📚 Continue building innovative and practical projects  
 
 ---
 
