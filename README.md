@@ -26,6 +26,7 @@ Programming Languages:
 ### 🛠️ Technologies & Tools
 
 <p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Icon" />
   <img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL Icon" />
