@@ -42,7 +42,7 @@ Programming Languages:
 ### 📈 My GitHub Stats
 
 <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamko17&show_icons=true&theme=tokyonight&include_all_commits=false"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamko17&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
 </p>
 
